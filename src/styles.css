@@ -1,0 +1,60 @@
+.ant-btn {
+  margin-right: 8px;
+}
+
+.site-layout {
+  min-height: 100vh;
+  background-color: #fff;
+}
+
+.content-layout {
+  margin: 5%;
+}
+
+.ant-radio-button-wrapper-disabled.ant-radio-button-wrapper-checked {
+  color: #000;
+}
+
+.rule-box {
+  background-color: #fff;
+  width: "90%";
+}
+
+.menu-icons {
+  margin-top: 5rem;
+}
+
+.dashed-buttons {
+  margin: 1% auto;
+}
+
+.form-box {
+  width: 100%;
+  margin: 1% 20%;
+}
+.input-box {
+  display: inline-block;
+  width: 30%;
+  margin: 1%;
+}
+
+.form-buttons {
+  margin: 3%;
+}
+
+.spinner-box {
+  text-align: center;
+  background: rgba(0, 0, 0, 0.05);
+  border-radius: 4px;
+  margin-bottom: 20px;
+  padding: 30px 50px;
+  margin: 20px 0;
+}
+
+@media screen and (max-width: 600px) {
+  .input-box {
+    display: block;
+    width: 50%;
+    margin: 1%;
+  }
+}
