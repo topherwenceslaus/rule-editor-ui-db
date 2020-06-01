@@ -7,7 +7,7 @@ Live Demo: https://rule-editor-dashboard.topherwenceslaus.now.sh/
 
 # Types 
 
-Rule is divided into Primary and secondary condition along with the meta data.
+Rule is divided into Primary and secondary conditions along with the meta data.
 
 For Example: This rule `If monthly rental amount > $1000 and customer age < 21` will be divided as:
 
