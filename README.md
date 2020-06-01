@@ -75,3 +75,5 @@ Response data is will structured in the following format.
 ```
 
 Server URL:  https://my-json-server.typicode.com/topherwenceslaus/mock-server/rules/
+
+PUT/DELETE/POST methods are mocked. Server data won't be updated.
